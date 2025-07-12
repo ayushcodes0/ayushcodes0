@@ -28,6 +28,7 @@
 - Building **JEEArchive** — Platform for mock tests and track performance, built with scalable practices like **API rate limiting**, response **caching**, and **modular architecture**
 - Built [JEEArchiveMaterial](https://github.com/ayushcodes0/jeearchivematerial) — a resource-sharing platform used by over **3000+ students**
 - Completed a Full Stack Internship at [Lawyal Tech](https://lawyaltech.org/), contributing to interactive **Product Tour** flows and **Scoring Logics**
+- Secured 2nd place in OPCODE, an open-source competition held at IIIT Bhagalpur among 300+ participants
 - Active member of the Mysteve Art Club, IIIT Bhagalpur
 - Contact: **ayushsinghcodes@gmail.com**
 
