@@ -1,22 +1,22 @@
 <h1 align="center">Ayush Singh</h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ayushsinghiiit" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://ayush-singh-portfolio.vercel.app" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Portfolio-948979?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img height="30" src="https://img.shields.io/badge/Portfolio-FFA07A?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1cEoT6yXxU3IpbiB26AQABTlKGTDB99GQ/view?usp=sharing" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Resume-View-F57C00?style=for-the-badge&logo=file&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayushsinghiiit" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img height="30" src="https://img.shields.io/badge/Resume-FFA07A?style=for-the-badge&logoColor=white" alt="Resume" />
   </a>
   <a href="https://x.com/ayushcodes_" target="_blank">
-  <img height="30" src="https://img.shields.io/badge/Twitter-948979?style=for-the-badge&logoColor=white" alt="Twitter" />
+    <img height="30" src="https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 <p align="center">
-  <img height="30" src="https://komarev.com/ghpvc/?username=ayushcodes0&label=Views&style=for-the-badge&color=948979" alt="Views" />
+  <img height="30" src="https://komarev.com/ghpvc/?username=ayushcodes0&label=Views&style=for-the-badge&color=FFA07A" alt="Views" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" /></p>
@@ -49,12 +49,6 @@
 
 ### Projects
 
-#### [JEEArchive Material](https://github.com/ayushcodes0/jeearchivematerial)
-A structured web platform for JEE aspirants to access organized study materials like notes, PYQs, and revision sheets.
-- Over **3000+ users**, 200+ daily active
-- Built using **HTML, CSS, JavaScript**
-- Focused on simplicity, speed, and clarity for real student needs
-
 #### [JEEArchive – Mock Test Platform](https://jeearchive.vercel.app)  
 Working on a full-stack web app for JEE aspirants to take mock tests, track performance, and improve accuracy over time.  
 - Built with **Next.js**, **Node.js**, **MongoDB**, and **TailwindCSS**  
@@ -63,6 +57,13 @@ Working on a full-stack web app for JEE aspirants to take mock tests, track perf
 - Features **test analytics**, **leaderboard**, **rank prediction**, and **attempt history**  
 - Built-in **question navigation**, **timer**, **auto-save**, and **post-test review system**  
 - Designed for high performance, smooth UX, and real-world exam simulation
+
+#### [JEEArchive Material](https://github.com/ayushcodes0/jeearchivematerial)
+A structured web platform for JEE aspirants to access organized study materials like notes, PYQs, and revision sheets.
+- Over **3000+ users**, 200+ daily active
+- Built using **HTML, CSS, JavaScript**
+- Focused on simplicity, speed, and clarity for real student needs
+
 
 
 #### [Portfolio Website](https://github.com/ayushcodes0/Portfolio)
@@ -78,9 +79,9 @@ Personal developer portfolio showcasing skills, experience, and projects.
 
 ---
 
-### 🧪 Experience
+### Experience
 
-#### 👨‍💻 Full Stack Intern @ Lawyal Tech *(Mar 2025 – May 2025)*  
+#### Full Stack Intern @ Lawyal Tech *(Mar 2025 – May 2025)*  
 - Built interactive product tour in Next.js  
 - Developed scoring & validation logic for training modules  
 - Created scalable Node.js APIs  
@@ -88,7 +89,7 @@ Personal developer portfolio showcasing skills, experience, and projects.
 
 ---
 
-### 📚 Key Coursework
+### Key Coursework
 
 - Data Structures & Algorithms  
 - Operating Systems  
@@ -98,15 +99,20 @@ Personal developer portfolio showcasing skills, experience, and projects.
 
 ---
 
-### 🎨 Extracurriculars
+### Extracurriculars
 
 **Member @ Mysteve Art Club**  
 - Participated and won multiple art competitions  
 - Mentored juniors and helped organize club events
 
+**2nd Place – Open Source OPCODE Competition**  
+- Secured **2nd rank** among 300+ participants in an open-source coding competition held at IIIT Bhagalpur  
+- Built and contributed to open-source projects under strict timelines and evaluation  
+- 📄 [View Certificate](https://drive.google.com/file/d/1Nhnl0QQG_ZIBwekf6_KmP7qJ86mlpMWI/view?usp=sharing)
+
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <details>
   <summary><b>⚡ Stats & Languages</b></summary>
@@ -117,13 +123,7 @@ Personal developer portfolio showcasing skills, experience, and projects.
 
 ---
 
-### 📝 Quote I Like
-
-> “First, solve the problem. Then, write the code.” — John Johnson
-
----
-
-⭐️ *Thanks for visiting! Don’t forget to star/follow if you like what I build.*
+*Thanks for visiting! Don’t forget to star/follow if you like what I build.*
 
 
 
