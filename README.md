@@ -61,7 +61,7 @@ Working on a full-stack web app for JEE aspirants to take mock tests, track perf
 
 #### [JEEArchive Material](https://github.com/ayushcodes0/jeearchivematerial)
 A structured web platform for JEE aspirants to access organized study materials like notes, PYQs, and revision sheets.
-- Over **3000+ users**, 200+ daily active
+- Over **6000+ users**, 200+ daily active
 - Built using **HTML, CSS, JavaScript**
 - Focused on simplicity, speed, and clarity for real student needs
 
