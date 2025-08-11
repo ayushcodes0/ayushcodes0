@@ -46,7 +46,7 @@
 
 <div align="center">
 
-## 💫 **About Me**
+## **About Me**
 
 </div>
 
@@ -72,14 +72,14 @@
 
 ⚡ **Fun fact:** I build platforms that help thousands of students achieve their dreams AND help traders optimize their financial performance! 🚀
 
-📧 **Contact:** ayushsinghcodes@gmail.com
+**Contact:** ayushsinghcodes@gmail.com
 
 </div>
 
 
 <div align="center">
 
-## 🛠️ **Tech Stack**
+## **Tech Stack**
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-## 🚀 **Featured Projects**
+## **Featured Projects**
 
 </div>
 
@@ -134,7 +134,7 @@ Educational resource platform serving **7000+ users** with organized study mater
 
 <div align="center">
 
-## 💼 **Experience**
+## **Experience**
 
 </div>
 
@@ -152,7 +152,7 @@ Educational resource platform serving **7000+ users** with organized study mater
 
 <div align="center">
 
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 </div>
 
@@ -179,7 +179,7 @@ Educational resource platform serving **7000+ users** with organized study mater
 
 <div align="center">
 
-## 🏅 **GitHub Activity & Achievements**
+## **GitHub Activity & Achievements**
 
 </div>
 
@@ -198,7 +198,7 @@ Educational resource platform serving **7000+ users** with organized study mater
 
 <div align="center">
 
-## 🏆 **GitHub Trophies**
+## **GitHub Trophies**
 
 </div>
 
