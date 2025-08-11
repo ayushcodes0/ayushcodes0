@@ -207,17 +207,6 @@ Educational resource platform serving **7000+ users** with organized study mater
   <img src="https://github-profile-trophy.vercel.app/?username=ayushcodes0&theme=onestar&no-frame=false&no-bg=false&margin-w=25&margin-h=20&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Followers,Issues,Repositories,Stars" alt="GitHub Trophies"/>
 </div>
 
-<!-- Animated Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,0,6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
-
-</div>
-
-<div align="center">
-  
-*Building the future, one line of code at a time* ⚡
-
-</div>
 
 
 
