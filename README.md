@@ -39,7 +39,7 @@
 
 
 <!-- Animated Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,0,6&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=-1:0B5ED9,100:0B5ED9,0,6&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
 
 </div>
 
