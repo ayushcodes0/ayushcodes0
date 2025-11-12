@@ -56,7 +56,7 @@
 
 🔭 Currently building **JEEArchive** — A comprehensive mock test platform with advanced analytics and performance tracking
 
-👯 Successfully built **JEEArchiveMaterial** — serving **30000+ students** with organized study resources
+👯 Successfully built **JEEArchiveMaterial** — serving **80000+ students** with organized study resources
 
 💼 **Freelance Developer** — Built **Trade Journal Web App**, a production-ready platform for traders to track and analyze their performance with real-time data visualization, automated P&L calculations, and scalable architecture supporting multiple user tiers
 
@@ -123,7 +123,7 @@ Full-stack mock test platform for JEE aspirants with performance tracking.
 - **Features:** Authentication, analytics, leaderboard, rank prediction
 
 ### 📚 **[JEEArchive Material](https://github.com/ayushcodes0/jeearchivematerial)**
-Educational resource platform serving **30000+ users** with organized study materials.
+Educational resource platform serving **80000+ users** with organized study materials.
 - **Tech Stack:** HTML, CSS, JavaScript
 - **→ [GitHub Repository](https://github.com/ayushcodes0/jeearchivematerial)**
 
