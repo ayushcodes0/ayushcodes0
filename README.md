@@ -52,9 +52,9 @@ Full Stack Developer • IIIT Bhagalpur
 
 ---
 
-🚀 Building products used by thousands of users  
-📊 Focused on scalable web apps & performance  
-💻 React • Next.js • Node.js • PostgreSQL  
+Building products used by thousands of users  
+Focused on scalable web apps & performance  
+React • Next.js • Node.js • PostgreSQL  
 
 ---
 
