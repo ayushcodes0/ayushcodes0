@@ -25,10 +25,9 @@
     <img src="https://img.shields.io/badge/Portfolio-5B7FE5?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=4A6BD4&color=5B7FE5" alt="Portfolio" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
   
-  <!-- Resume Button -->
-  <a href="[https://drive.google.com/file/d/1cEoT6yXxU3IpbiB26AQABTlKGTDB99GQ/view?usp=sharing]([https://drive.google.com/file/d/1mgWZVQFehgZo9A-mDd1G1PiXuRKD471L/view](https://drive.google.com/file/d/1mgWZVQFehgZo9A-mDd1G1PiXuRKD471L/view))" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-5B7FE5?style=for-the-badge&logo=file-text&logoColor=white&labelColor=4A6BD4&color=5B7FE5" alt="Resume" style="margin: 5px 10px; border-radius: 12px;" />
-  </a>
+<a href="https://drive.google.com/file/d/1mgWZVQFehgZo9A-mDd1G1PiXuRKD471L/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-5B7FE5?style=for-the-badge&logo=file-text&logoColor=white&labelColor=4A6BD4&color=5B7FE5" alt="Resume" style="margin: 5px 10px; border-radius: 12px;" />
+</a>
   
   <!-- Twitter Button (No Icon) -->
   <a href="https://x.com/ayushcodes_" target="_blank">
