@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header with Metallic Effect -->
+<!-- Animated Header with Metallic Effect --> 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=45&duration=3000&pause=1000&color=4169E1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Ayush+Singh;" alt="Typing SVG" />
 </h1>
